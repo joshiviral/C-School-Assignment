@@ -1,0 +1,17 @@
+G:\Visual Studio 2015\Projects\Software Development techniques\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+G:\Visual Studio 2015\Projects\Software Development techniques\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+G:\Visual Studio 2015\Projects\Software Development techniques\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+G:\Visual Studio 2015\Projects\Software Development techniques\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csprojResolveAssemblyReference.cache
+G:\Visual Studio 2015\Projects\Software Development techniques\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+G:\Visual Studio 2015\Projects\Software Development techniques\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb
+C:\Users\Admin\Downloads\PersonalInformation-7782881\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+C:\Users\Admin\Downloads\PersonalInformation-7782881\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+C:\Users\Admin\Downloads\PersonalInformation-7782881\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+C:\Users\Admin\Downloads\PersonalInformation-7782881\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+C:\Users\Admin\Downloads\PersonalInformation-7782881\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb
+F:\PersonalInformation - Final\PersonalInformation - Final\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe.config
+F:\PersonalInformation - Final\PersonalInformation - Final\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.exe
+F:\PersonalInformation - Final\PersonalInformation - Final\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.pdb
+F:\PersonalInformation - Final\PersonalInformation - Final\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.exe
+F:\PersonalInformation - Final\PersonalInformation - Final\PersonalInformation\PersonalInformation\bin\Debug\PersonalInformation.pdb
+F:\PersonalInformation - Final\PersonalInformation - Final\PersonalInformation\PersonalInformation\obj\Debug\PersonalInformation.csprojResolveAssemblyReference.cache
